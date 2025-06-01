@@ -24,7 +24,7 @@ This project provides a Streamlit-based web interface that takes a user’s resu
 1. **Python 3.8+**  
 2. **Ollama** installed and running locally, with the `llama3.2:3b` model downloaded.  
    - Follow the instructions at https://ollama.com/docs/installation to install Ollama.
-   - After installing, run `ollama pull llama3.2-3b` (or equivalent) so that the model is available.
+   - After installing, run `ollama pull llama3.2:3b` (or equivalent) so that the model is available.
 
 3. **pip** (Python package installer).
 
