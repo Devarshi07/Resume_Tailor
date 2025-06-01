@@ -11,7 +11,7 @@ def extract_section(resume: str, section_name: str) -> str:
     match = re.search(pattern, resume)
     return match.group("body") if match else ""
 
-
+#replace section
 def replace_section(resume: str, section_name: str, new_body: str) -> str:
     """
     Replace the entire body under section_name (including old bullets) with new_body.
