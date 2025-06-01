@@ -33,7 +33,7 @@ This project provides a Streamlit-based web interface that takes a user’s resu
 1. Clone or download this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/resume-tailor.git
+   https://github.com/Devarshi07/Resume_Tailor.git
    cd resume-tailor
 
 python3 -m venv venv
