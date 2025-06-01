@@ -5,11 +5,17 @@ This project provides a Streamlit-based web interface that takes a user’s resu
 ## Project Structure
 .
 ├── app.py # Streamlit frontend
+
 ├── tailor.py # Main logic to tie everything together
+
 ├── llm_utils.py # Ollama (Llama 3.2 3b) setup and bullet-alignment functions
+
 ├── bullet_utils.py # Helpers for extracting/replacing sections & bullets
+
 ├── resume_loader.py # Helpers for loading PDF/DOCX text
+
 ├── requirements.txt # Python dependencies
+
 └── README.md # This file
 
 
