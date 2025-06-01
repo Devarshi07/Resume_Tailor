@@ -1,0 +1,5 @@
+langchain
+ollama
+PyPDF2
+docx2txt
+streamlit
